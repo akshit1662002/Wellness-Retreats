@@ -31,8 +31,8 @@ To set up the project locally, follow these steps:
 1.	Clone the Repository:
 ```bash
 
-     git clone https://github.com/your-username/wellness-retreats.git
-     cd wellness-retreats
+     git clone https://github.com/akshit1662002/Wellness-Retreats.git
+     cd Wellness-Retreats
 ```
 
 
