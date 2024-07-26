@@ -1,0 +1,55 @@
+.side-gap {
+  width: 97%;
+  margin: auto;
+}
+
+.filter-button {
+  justify-content: space-between;
+  display: flex;
+}
+
+.margin {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.margin-left {
+  margin-left: 15px;
+}
+
+@media (width <= 600px) {
+  .filter-button {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .flex-column {
+    flex-direction: column;
+  }
+
+  .select-input {
+    color: #000;
+    background-color: #efefef;
+    width: 97%;
+  }
+
+  .margin {
+    border-radius: 3px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding: 10px;
+  }
+
+  .margin-left {
+    margin-left: 0;
+  }
+
+  .content-display {
+    display: none;
+  }
+
+  .header-margin-bottom {
+    margin-bottom: 4px;
+  }
+}
+/*# sourceMappingURL=index.64ba863b.css.map */
